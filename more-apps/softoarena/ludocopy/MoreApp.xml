@@ -1,9 +1,5 @@
 <LOAD>
-	<Link AppName="Bible Words" ImgLink="https://softoscience.com/more-apps/softoscience/ludocopy/images/Chess.png" AppLink="https://play.google.com/store/apps/details?id=com.softogames.chess.king.real.checkmake.master.chessboard"/>
-	<Link AppName="Chess" ImgLink="https://softoscience.com/more-apps/softoscience/ludocopy/images/Chess.png" AppLink="https://play.google.com/store/apps/details?id=com.trickytech.chess.battle.offline.multiplayer"/>
-	<Link AppName="Ludo Classic" ImgLink="https://softoscience.com/more-apps/softoscience/ludocopy/images/Ludo_Classic.png" AppLink="https://play.google.com/store/apps/details?id=com.trickytech.ludo.classic.board.free.dice.multiplayer.game"/>
-	<Link AppName="Puzzle Jigsaw" ImgLink="https://softoscience.com/more-apps/softoscience/ludocopy/images/Puzzle_Jigsaw.png" AppLink="https://play.google.com/store/apps/details?id=com.trickytech.puzzle.jigsaw.game"/>
-	<Link AppName="Snakes and Ladders" ImgLink="https://softoscience.com/more-apps/softoscience/ludocopy/images/SNL.png" AppLink="https://play.google.com/store/apps/details?id=com.trickytech.free.board.games.dice.snake.ladder.multiplayer"/>
-	<Link AppName="Tic Tac Toe" ImgLink="https://softoscience.com/more-apps/softoscience/ludocopy/images/Tic_Tac_Toe.png" AppLink="https://play.google.com/store/apps/details?id=com.trickytech.free.multiplayer.tictactoe.neon"/>
-	<Link AppName="Word Finder" ImgLink="https://softoscience.com/more-apps/softoscience/ludocopy/images/Word_Finder.png" AppLink="https://play.google.com/store/apps/details?id=com.trickytech.connect.swipe.jumble.solver.unscramble.word.finder"/>
+	<Link AppName="Block Puzzle" ImgLink="https://softoarena.github.io/home/more-apps/softoarena/ludo/block_puzzle.png" AppLink="https://play.google.com/store/apps/details?id=com.softoarenagames.ludo.classic.board.club.free.dice.multiplayer.game"/>
+	<!-- <Link AppName="Chess" ImgLink="https://softoscience.com/more-apps/softoscience/ludocopy/images/Chess.png" AppLink="https://play.google.com/store/apps/details?id=com.trickytech.chess.battle.offline.multiplayer"/> -->
+	
 </LOAD>
